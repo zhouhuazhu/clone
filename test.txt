@@ -6,4 +6,3 @@ f5536c65f0934e49b12d26c8de78342d6c86955a (HEAD -> master) 添加了world
 
 ss
 good
-bad
