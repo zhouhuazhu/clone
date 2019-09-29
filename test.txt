@@ -1,8 +1,2 @@
 你好，world！
-a87da2e25b6f9635bbbbe5e96cbc3b5a7957a235
-f5536c6 (HEAD -> master) HEAD@{0}: commit: 添加了world
-
-f5536c65f0934e49b12d26c8de78342d6c86955a (HEAD -> master) 添加了world
-
-hello sdfsfworld！dsajklj
-sa
+hello world！
